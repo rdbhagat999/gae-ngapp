@@ -8,7 +8,6 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prepare": "ng build --prod",
     "gc:deploy": "gcloud app deploy --verbosity=debug"
   },
   "private": true,
